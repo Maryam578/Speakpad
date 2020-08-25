@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "149224345966",
+    "firebase_url": "https://speakpad-e5dff.firebaseio.com",
+    "project_id": "speakpad-e5dff",
+    "storage_bucket": "speakpad-e5dff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149224345966:android:11d92cee79d6e4a552317f",
+        "android_client_info": {
+          "package_name": "com.bt.speakpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149224345966-a92ips172ij9d0o9ob7asgu1bmpkp55g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNIqKHa_hmDWZM4DO-Em4nCWd5jBIAASY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149224345966-a92ips172ij9d0o9ob7asgu1bmpkp55g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
