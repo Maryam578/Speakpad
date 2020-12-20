@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: net.gotev:speech:1.4.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a107f761dc78e37d7026c15e8c0943a3/jetified-speech-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a107f761dc78e37d7026c15e8c0943a3/jetified-speech-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a107f761dc78e37d7026c15e8c0943a3/jetified-speech-1.4.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.gotev/speech/1.4.0/2c6d3a756475aa9ba2f230baceeb3884cb56de5b/speech-1.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.gotev/speech/1.4.0/b778af347ca8aea012949c58a8ee4b27ab8a7439/speech-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
